@@ -1,4 +1,4 @@
-# Personal Rclone Sync website
+# rclone personal OAuth website
 
 This folder contains the public homepage and privacy policy for a private,
 single-user rclone OAuth application.
